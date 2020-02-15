@@ -98,14 +98,14 @@ gitment:
     owner: zhudu
     repo: blogtalk
     oauth:
-        client_id: 113a6ccf1f3271788c8d
-        client_secret: 99ff60aab574286ccc5ecdf93f96dfe6b0223319
+        client_id: b6f07abf2c2dd4686811
+        client_secret: 2c3fca980646bce08c9f53699dd1b1ad8d9ea8dd
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: zhudu
     repo: blogtalk
-    clientID: 113a6ccf1f3271788c8d
-    clientSecret: 99ff60aab574286ccc5ecdf93f96dfe6b0223319
+    clientID: b6f07abf2c2dd4686811
+    clientSecret: 2c3fca980646bce08c9f53699dd1b1ad8d9ea8dd
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
