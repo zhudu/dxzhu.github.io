@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: base
 description: 基础筑起高楼
 keywords: 基础, base
