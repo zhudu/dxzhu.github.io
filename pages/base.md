@@ -10,15 +10,15 @@ permalink: /base/
 
 > 万丈高楼平地起！
 
-<!-- <ul class="bases">
+<ul class="bases">
 {% for base in site.base %}
 {% if base.title != "base Template" %}
 <li class="bases-item"><a href="{{ site.url }}{{ base.url }}">{{ base.title }}</a></li>
 {% endif %}
 {% endfor %}
-</ul> -->
+</ul>
 
-<section class="container bases-content">
+<!-- <section class="container bases-content">
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
 <h3>{{ category | first }}</h3>
@@ -31,4 +31,4 @@ permalink: /base/
 {% endfor %}
 </ol>
 {% endfor %}
-</section>
+</section> -->
