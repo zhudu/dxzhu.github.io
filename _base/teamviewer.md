@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: base
 title: teamviewer
-categories: Tools
-description: teamviewer
+categories: database
+description: teamviewer内网穿透
 keywords: teamviewer
 ---
 
