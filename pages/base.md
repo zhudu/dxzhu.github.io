@@ -12,7 +12,7 @@ permalink: /base/
 
 <ul class="listing">
 {% for base in site.base %}
-{% if base.title != "template page" %}
+{% if base.title != "base Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ base.url }}">{{ base.title }}</a></li>
 {% endif %}
 {% endfor %}
