@@ -1,7 +1,7 @@
 ---
-layout: base
+layout: post
 title: teamviewer实现内网穿透
-categories: database
+categories: Tools
 description: teamviewer实现内网穿透
 keywords: teamviewer,渗透
 ---
