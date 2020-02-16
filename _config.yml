@@ -84,9 +84,9 @@ collections:
     wiki:
         output: true
         permalink: /wiki/:path/
-    base:
-        output: true
-        permalink: /base/:path/
+    # base:
+    #     output: true
+    #     permalink: /base/:path/
 
 repository: zhudu/zhudu.github.io
 

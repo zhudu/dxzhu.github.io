@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: base
 description: 基础筑起高楼
 keywords: 基础, base
@@ -19,7 +19,7 @@ permalink: /base/
 </ul> -->
 
 <section class="container bases-content">
-{% assign sorted_categories = site.base.categories | sort %}
+{% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
 <h3>{{ category | first }}</h3>
 <ol class="bases-list" id="{{ category[0] }}">
