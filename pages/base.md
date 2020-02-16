@@ -8,7 +8,7 @@ menu: 基础
 permalink: /base/
 ---
 
-> 万丈高楼从这起！
+> 万丈高楼平地起！
 
 <ul class="listing">
 {% for base in site.base %}
