@@ -39,6 +39,10 @@ navs:
 #     label: 归档
 
   -
+    href: /base/
+    label: 基础
+
+  -
     href: /wiki/
     label: 维基
 
