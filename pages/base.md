@@ -19,7 +19,7 @@ permalink: /base/
 </ul> -->
 
 <section class="container bases-content">
-{% assign sorted_categories = site.categories | sort %}
+{% assign sorted_categories = site.basa | sort %}
 {% for category in sorted_categories %}
 <h3>{{ category | first }}</h3>
 <ol class="bases-list" id="{{ category[0] }}">
