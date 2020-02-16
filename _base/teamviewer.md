@@ -1,9 +1,9 @@
 ---
 layout: post
-title: teamviewer实现内网穿透
+title: teamviewer
 categories: Tools
-description: teamviewer实现内网穿透
-keywords: teamviewer,渗透
+description: teamviewer
+keywords: teamviewer
 ---
 
 本文将介绍一种通过teamviewer的vpn功能实现外网访问内网的操作，简单来说，就是通过teamviewer的vpn实现外网访问内网的代理，再通过Proxifier辅助实现全局代理，即可实现外网访问内网的操作。这样的方法相对于proxychains4、端口转发等操作来说更方便，这里不做过多阐述。
