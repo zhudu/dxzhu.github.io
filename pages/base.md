@@ -5,7 +5,7 @@ description: 基础筑起高楼
 keywords: 基础, base
 comments: false
 menu: 基础
-permalink: /basse/
+permalink: /base/
 ---
 
 > 万丈高楼从这起！
