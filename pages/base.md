@@ -10,10 +10,10 @@ permalink: /base/
 
 > 万丈高楼平地起！
 
-<ul class="listing">
+<ul class="bases">
 {% for base in site.base %}
 {% if base.title != "base Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ base.url }}">{{ base.title }}</a></li>
+<li class="bases-item"><a href="{{ site.url }}{{ base.url }}">{{ base.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
