@@ -53,7 +53,7 @@ PCB包含：进程标识符process ID、进程状态、内存、IO
 
 ### 进程状态转换
 
-![](images\wiki\operating.png)
+![1](images\wiki\operating.png)
 
 运行->阻塞：
 
