@@ -38,9 +38,9 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /base/
-    label: 基础
+  # -
+  #   href: /base/
+  #   label: 基础
 
   -
     href: /wiki/
@@ -84,9 +84,9 @@ collections:
     wiki:
         output: true
         permalink: /wiki/:path/
-    base:
-        output: true
-        permalink: /base/:path/
+    # base:
+    #     output: true
+    #     permalink: /base/:path/
 
 repository: zhudu/zhudu.github.io
 

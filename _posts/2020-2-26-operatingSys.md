@@ -1,6 +1,6 @@
 ---
-layout: base
-title: 操作系统
+layout: post
+title: CPU虚拟化及进程了解
 categories: operating
 description: 操作系统
 keywords: operating

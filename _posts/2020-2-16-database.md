@@ -1,6 +1,6 @@
 ---
-layout: base
-title: 数据库入门
+layout: post
+title: 数据库入门术语概要
 categories: database
 description: 数据库入门知识
 keywords: database
