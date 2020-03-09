@@ -11,7 +11,10 @@ keywords: database
 1. 域(Domain)是一组具有相同数据类型的值的集合。例如：整数、实数、介于某个取值范围的整数、长度指定的字符串集合{‘男’，‘女’}、介于某个取值范围的日期。
 
 2. 笛卡尔积(Cartesian Product)
-
+   $$
+   给定一组域D_{1},D_{2},…,D_{n}，这些域中可以有相同的。D_{1},D_{2},…,D_{n}的笛卡尔积为：\\D_{1}×D_{2}×…×D_{n}=\left\{\left(d_{1}, d_{2}, \ldots, d_{n}\right) \quad | d_{i} \in \boldsymbol{D}_{i}, \quad i=1,2, \ldots, n\right\}
+   2.
+   $$
    给定一组域$D_{1}$,$D_{2}$,…,$D_{n}$，这些域中可以有相同的。$D_{1}$,$D_{2}$,…,$D_{n}$的笛卡尔积为：$D_{1}×D_{2}×…×D_{n}=\left\{\left(d_{1}, d_{2}, \ldots, d_{n}\right) \quad | d_{i} \in \boldsymbol{D}_{i}, \quad i=1,2, \ldots, n\right\}$
 
 3. 
