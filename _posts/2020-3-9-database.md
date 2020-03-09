@@ -15,9 +15,10 @@ keywords: database
    给定一组域D_{1},D_{2},…,D_{n}，这些域中可以有相同的。D_{1},D_{2},…,D_{n}的笛卡尔积为：\\D_{1}×D_{2}×…×D_{n}=\left\{\left(d_{1}, d_{2}, \ldots, d_{n}\right) \quad | d_{i} \in \boldsymbol{D}_{i}, \quad i=1,2, \ldots, n\right\}
    2.
    $$
-   给定一组域$D_{1}$,$D_{2}$,…,$D_{n}$，这些域中可以有相同的。$D_{1}$,$D_{2}$,…,$D_{n}$的笛卡尔积为：$D_{1}×D_{2}×…×D_{n}=\left\{\left(d_{1}, d_{2}, \ldots, d_{n}\right) \quad | d_{i} \in \boldsymbol{D}_{i}, \quad i=1,2, \ldots, n\right\}$
+   
+3. 1
 
-3. 
+4. 给定一组域$D_{1}$,$D_{2}$,…,$D_{n}$，这些域中可以有相同的。$D_{1}$,$D_{2}$,…,$D_{n}$的笛卡尔积为：$D_{1}×D_{2}×…×D_{n}=\left\{\left(d_{1}, d_{2}, \ldots, d_{n}\right) \quad | d_{i} \in \boldsymbol{D}_{i}, \quad i=1,2, \ldots, n\right\}$
 
 ### 常用的关系操作
 
