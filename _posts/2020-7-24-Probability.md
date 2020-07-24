@@ -65,6 +65,6 @@ keywords: Probability
 ## 事件关系与运算
 
 事件的包含：$A \subset B$ ↔事件 A 发生必导致事件 B 发生
-
-
-
+$$
+事件的包含：A \subset B ↔事件 A 发生必导致事件 B 发生
+$$
