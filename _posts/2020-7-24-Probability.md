@@ -81,3 +81,12 @@ keywords: Probability
 ![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZfpPvxtOibWYZ0fwKe4J8TTPU2qSg7ChKUIBtwcQ9MnBGIicrlMcdxdeugHVIzLwtTliapwV2ND5ichY/0)
 
 ![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZWGRId0ZaFNvAovhXJvPtZlOHVlmf3Nu1yXBQz3GnF3sTN7eBQA3dwdgzuKIWwiaH8icHMrrGlpPBE/0)
+
+------
+
+> 理解总结：
+>
+> 巧记对偶律：并的补等于补的交。
+
+------
+
