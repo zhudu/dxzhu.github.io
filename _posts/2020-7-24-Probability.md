@@ -64,8 +64,20 @@ keywords: Probability
 
 ## 事件关系与运算
 
-事件的包含：$A \subset B$ ↔事件 A 发生必导致事件 B 发生
-$$
-事件的包含：A \subset B ↔事件 A 发生必导致事件 B 发生
-$$
-aaaa
+![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZicjz2PBScp8IhicApTK5dhAtxqHZziafYT1IqK5R2ezfu91A7oZE0PSobIOVd4uvcHicsqYMWhyO4tA/0)
+
+![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZIshEaMiakXdlY0KQFFgEaXhCa22cTRn41MATTq2XphRDBMjqnnl61vvFwkPK40A2Ev0FTlbctSrY/0)
+
+![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZUS1JObTIsBxodkgicF2LCSjwrxxQMb2Q33sgeOhHBH2K0s8t1o0neSibgv8FnKiaZEaiaf6MtHOU424/0)
+
+![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZuNVoAYK7P6Kj343hzLx6l816cQhbPDbpJjYyMD4XSjmic5kJT4q5X3JUiarQHwrDYsZOmdXOhia0XQ/0)
+
+![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZHHD6f5MIC0WBvdIr5eRAV5aCLOwt2SlBmX5OyJG3hI27c1owwwNKs0ePl9dXFgERP2pxlyzMMZ0/0)
+
+![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZyO6CFFPKBMYJKp4Nkc69V0W43YnHeSJYFNasajiciavZU4ibe5wmXj7q2pjQrmiaQOgEhKzC6XuFiaia8/0)
+
+运算：
+
+![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZfpPvxtOibWYZ0fwKe4J8TTPU2qSg7ChKUIBtwcQ9MnBGIicrlMcdxdeugHVIzLwtTliapwV2ND5ichY/0)
+
+![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZWGRId0ZaFNvAovhXJvPtZlOHVlmf3Nu1yXBQz3GnF3sTN7eBQA3dwdgzuKIWwiaH8icHMrrGlpPBE/0)
