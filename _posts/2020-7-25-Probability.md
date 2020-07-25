@@ -8,11 +8,29 @@ keywords: Probability
 
 条件概率
 
-概念：在事件A 发生的条件下事件B 发生的条件概率。记为P(B|A)
+**概念：**在事件A 发生的条件下事件B 发生的条件概率。记为P(B|A)
 
-定义：设A、B为两事件, P ( A ) > 0 , 则称 P(AB)/P(A) 为事件 A 发生的条件下事件 B 发生的条件概率，记为P(B|A)=P(AB)/P(A)。
+**定义：**设A、B为两事件, P ( A ) > 0 , 则称 P(AB)/P(A) 为事件 A 发生的条件下事件 B 发生的条件概率，记为P(B|A)=P(AB)/P(A)。
 
-性质：
+**性质：**
+
+非负性
+
+![](https://render.githubusercontent.com/render/math?math=P(B \mid A) \geq 0)
+
+规范性
+
+![](https://render.githubusercontent.com/render/math?math=\begin{equation}P(\Omega \mid A)=1 \end{equation})
+
+可列可加性
+
+![](https://render.githubusercontent.com/render/math?math=P\left(\bigcup_{i=1}^{\infty} B_{i} \mid A\right)=\sum_{i=1}^{\infty} P\left(B_{i} \mid A\right))
+
+![](https://render.githubusercontent.com/render/math?math=\begin{equation} P\left(B_{1} \cup B_{2} \mid A\right)=P\left(B_{1} \mid A\right)+P\left(B_{2} \mid A\right)-P\left(B_{1} B_{2} \mid A\right)\end{equation})
+
+![](https://render.githubusercontent.com/render/math?math=\begin{equation}P(\bar{B} \mid A)=1-P(B \mid A)\end{equation})
+
+![](https://render.githubusercontent.com/render/math?math=P\left(B_{1}-B_{2} \mid A\right)=P\left(B_{1} \mid A\right)-P\left(B_{1} B_{2} \mid A\right))
 
 ![](http://p.qlogo.cn/qqmail_head/Q3auHgzwzM7qJfYMXHt5doEGNELY23yZVciaIog4B80Oo6aWFz2IHKMEBg5GaERxGxib7fiaLn6tQa4ULJXFOcwkSHbDZdUGg0U7jyPZt6RWwg/0)
 
